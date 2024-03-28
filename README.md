@@ -24,7 +24,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aasuyadav1/aasuyadav1/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
