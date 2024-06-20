@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a passionate MERN Stack Developer with a keen interest in building robust and scalable websites. My goal is to write clean, efficient, and maintainable code that brings ideas to life on the web. Always eager to learn and explore new technologies, I strive to deliver the best user experiences through my projects.</p>
+<p align="left">I'm a passionate MERN Stack Developer with a keep interest in building robust and scalable websites. My goal is to write clean, efficient, and maintainable code that brings ideas to life on the web. Always eager to learn and explore new technologies, I strive to deliver the best user experiences through my projects.</p>
 
 ###
 
