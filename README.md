@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">https://my--portfolios.vercel.app/ - A platform where users can effortlessly create and deploy professional portfolios.<br><br>https://resume-editorr.vercel.app/ - An intuitive tool that allows users to create multiple resumes from a variety of templates.</p>
+<p align="left"> https://build-portfolios.vercel.app/ - A platform where users can effortlessly create and deploy professional portfolios.<br><br>https://resume-editorr.vercel.app/ - An intuitive tool that allows users to create multiple resumes from a variety of templates.</p>
 
 ###
 
