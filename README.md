@@ -44,6 +44,9 @@
 
 <p align="left"> https://buildportfolio.co - A platform where users can effortlessly create and deploy professional portfolios.<br><br>https://resume-editorr.vercel.app/ - An intuitive tool that allows users to create multiple resumes from a variety of templates.</p>
 
+<h3 align="left">Read my blogs on:</h3>
+<p align="left"><a href="https://developerthink.com" target="_blank">developerthink.com</a> - Insights, tutorials, and tips for developers.</p>
+
 ###
 
 <h3 align="left">What I do:</h3>
