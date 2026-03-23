@@ -42,6 +42,8 @@
 
 ###
 
+<p align="left"><a href="https://aasuyadav.com/" target="_blank">Aasuyadav.com</a> - Portfolio website.</p>
+
 <p align="left"> https://build-portfolios.vercel.app/ - A platform where users can effortlessly create and deploy professional portfolios.<br><br>https://resume-editorr.vercel.app/ - An intuitive tool that allows users to create multiple resumes from a variety of templates.</p>
 
 <p align="left"><a href="https://developerthink-blog.vercel.app/" target="_blank">developerthink-blog.vercel.app</a> - A blog website read the Insights, tutorials, and tips for developers.</p>
